@@ -155,6 +155,7 @@ find_path(MYSQL_INCLUDE_DIR
     /usr/local/include
     /usr/local/include/mysql
     /usr/local/mysql/include
+    "E:/wow/mysql-8.0.35-winx64/include"
     "C:/tools/mysql/current/include" # chocolatey package
     "$ENV{ProgramW6432}/MySQL/MySQL Server 8.1/include"
     "$ENV{ProgramW6432}/MySQL/MySQL Server 8.0/include"
@@ -195,6 +196,7 @@ if( WIN32 )
     PATHS
       ${MYSQL_ADD_LIBRARIES_PATH}
       "C:/tools/mysql/current/lib" # chocolatey package
+      "E:/wow/mysql-8.0.35-winx64/lib"
       "$ENV{ProgramW6432}/MySQL/MySQL Server 8.1/lib"
       "$ENV{ProgramW6432}/MySQL/MySQL Server 8.0/lib"
       "$ENV{ProgramW6432}/MySQL/MySQL Server 5.7/lib"
@@ -241,6 +243,7 @@ endif( UNIX )
 if( WIN32 )
   find_program(MYSQL_EXECUTABLE mysql
     PATHS
+      "E:/wow/mysql-8.0.35-winx64/bin"
       "C:/tools/mysql/current/bin" # chocolatey package
       "$ENV{ProgramW6432}/MySQL/MySQL Server 8.1/bin"
       "$ENV{ProgramW6432}/MySQL/MySQL Server 8.0/bin"
