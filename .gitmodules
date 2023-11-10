@@ -1,0 +1,12 @@
+[submodule "modules/mod-transmog"]
+	path = modules/mod-transmog
+	url = https://github.com/kingazcore/mod-transmog.git
+[submodule "modules/mod-anticheat"]
+	path = modules/mod-anticheat
+	url = https://github.com/kingazcore/mod-anticheat.git
+[submodule "modules/mod-eluna"]
+	path = modules/mod-eluna
+	url = https://github.com/kingazcore/mod-eluna.git
+[submodule "modules/mmod-morphsummon"]
+	path = modules/mmod-morphsummon
+	url = https://github.com/kingazcore/mmod-morphsummon.git
