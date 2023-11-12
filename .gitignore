@@ -10,10 +10,6 @@
 !/modules/CMakeLists.txt
 !/modules/*.h
 !/modules/*.cmake
-!/modules/mod-transmog
-!/modules/mod-anticheat
-!/modules/mod-eluna
-!/modules/mmod-morphsummon
 /build*/
 /var/*
 !/var/build/.gitkeep
