@@ -163,8 +163,8 @@ VALUES (30087,
 -- 宠物外观开始
 SET @ENTRY := 601072;
 SET @MODELID := 15665;
-SET @NAME := 'Cet Keres';
-SET @SUBNAME := 'Polymorphologist';
+SET @NAME := '宠物易容';
+SET @SUBNAME := '未翻译，自行体验';
 SET @SCRIPTNAME := 'npc_morphsummon';
 SET @NPC_TEXT_HELLO := @ENTRY;
 SET @NPC_TEXT_SORRY := @NPC_TEXT_HELLO + 1;
