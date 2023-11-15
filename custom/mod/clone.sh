@@ -9,4 +9,6 @@ git clone https://github.com/kingazcore/mod-learn-spells.git
 git clone https://github.com/kingazcore/mod-solo-lfg.git
 git clone https://github.com/kingazcore/mod-multi-client-check.git
 git clone https://github.com/kingazcore/mod-duel-reset
-git clone https://github.com/kingazcore/mod-rdf-expansion
+git clone https://github.com/kingazcore/mod-reward-shop.git
+git clone https://github.com/azerothcore/mod-world-chat
+git clone https://github.com/kingazcore/mod-1v1-arena.git
