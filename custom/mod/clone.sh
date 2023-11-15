@@ -2,3 +2,11 @@ git clone https://github.com/kingazcore/mod-transmog.git
 git clone https://github.com/kingazcore/mod-anticheat.git
 git clone https://github.com/kingazcore/mod-eluna.git
 git clone https://github.com/kingazcore/mod-morphsummon.git
+git clone https://github.com/kingazcore/mod-dynamic-xp.git
+git clone https://github.com/kingazcore/mod-random-enchants
+git clone https://github.com/kingazcore/mod-ah-bot.git
+git clone https://github.com/kingazcore/mod-learn-spells.git
+git clone https://github.com/kingazcore/mod-solo-lfg.git
+git clone https://github.com/kingazcore/mod-multi-client-check.git
+git clone https://github.com/kingazcore/mod-duel-reset
+git clone https://github.com/kingazcore/mod-rdf-expansion

@@ -20,7 +20,7 @@ UPDATE `gameobject_template` SET `ScriptName`='go_bells' WHERE `entry` IN (17588
 
 DELETE FROM `game_event` WHERE `eventEntry`=73;
 INSERT INTO `game_event` (`eventEntry`, `start_time`, `end_time`, `occurence`, `length`, `holiday`,`holidayStage`, `description`, `world_event`, `announce`) VALUES
-(73, '2010-01-01 01:00:00', '2030-01-01 01:00:00', 60, 1, 0, 0, 'Hourly Bells', 0, 2);
+(73, '2010-01-01 01:00:00', '2030-01-01 01:00:00', 60, 1, 0, 0, '整点提醒', 0, 2);
 
 DELETE FROM `game_event_gameobject` WHERE `eventEntry`=73;
 

@@ -83,7 +83,7 @@ INSERT INTO `creature` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnMask`, `p
 (@BAT_GUID_12, 10716, 0, 85, 2118, 1, 1, 0, 0, 2298.5 , 299.817, 81.8604, 0.977384, 60, 0, 0, 1, 0, 2, 0, 0, 0, '', 0); 
 
 DELETE FROM `game_event_creature` WHERE `eventEntry`=73;
--- Add Belfry Bat spawns to Hourly Bells event.
+-- Add Belfry Bat spawns to 整点提醒 event.
 INSERT INTO `game_event_creature` (`eventEntry`, `guid`) VALUES
 (73, @BAT_GUID_1),
 (73, @BAT_GUID_2),
