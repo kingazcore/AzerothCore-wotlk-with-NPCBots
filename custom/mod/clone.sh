@@ -14,5 +14,7 @@ git clone https://github.com/kingazcore/mod-1v1-arena.git
 git clone https://github.com/kingazcore/mod-reward-shop.git
 git clone https://github.com/kingazcore/mod-cfbg
 git clone https://github.com/kingazcore/mod-bg-item-reward.git
-git clone https://github.com/kingazcore/mod-racial-trait-swap.git
 git clone https://github.com/kingazcore/mod-skip-dk-starting-area.git
+git clone https://github.com/kingazcore/mod-autobalance.git
+git clone https://github.com/azerothcore/mod-npc-enchanter
+git clone https://github.com/azerothcore/mod-npc-services
