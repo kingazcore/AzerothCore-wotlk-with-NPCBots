@@ -16,5 +16,3 @@ git clone https://github.com/kingazcore/mod-cfbg
 git clone https://github.com/kingazcore/mod-bg-item-reward.git
 git clone https://github.com/kingazcore/mod-skip-dk-starting-area.git
 git clone https://github.com/kingazcore/mod-autobalance.git
-git clone https://github.com/azerothcore/mod-npc-enchanter
-git clone https://github.com/azerothcore/mod-npc-services
